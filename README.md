@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thaarini18
-- 👀 I’m interested in hacking and cybersecurity
-- 🌱 I’m currently in college majoring in computer science
-- 📫 reach me through thaarini18@gmail.com 
+- Hi, I’m @thaarini18
+- I’m interested in hacking and cybersecurity
+- I’m currently in college majoring in computer science
+- reach me through thaarini18@gmail.com 
 
 
 
